@@ -1,0 +1,18 @@
+@mixin displayFlex($justify,$align,$direction) {
+    display: flex;
+    justify-content: $justify;
+    align-items: $align;
+    flex-direction: $direction;
+}
+
+@mixin heavyFont {
+    font-family: 'Manrope', Times, serif;
+    font-weight: 700;
+    color: $veryDarkGrayishBlue;
+}
+
+@mixin lightFont {
+    font-family: 'Manrope', Times, serif;
+    font-weight: 500;
+    color: $desaturatedDarkBlue;
+}
