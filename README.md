@@ -1,3 +1,3 @@
 ## Front-end Mentor Challenge : Article Preview Component Solution
 
-[Preview]('design/desktop-preview.jpg')
+[Preview]('https://github.com/4nmolChaudhary/Article-Preview-Component/blob/master/design/desktop-preview.jpg')
